@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+header a:visited{
+    color:black;
+}
+header a:link{
+    color:black;
+}
+body.black{
+    background-color:black;
+    color:white;
+}
+header{
+    border-bottom: 1px solid grey;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+header h1{
+    text-align: center;
+    margin-bottom:0;
+}
+header div{
+    padding-bottom:4px;
+}
+header div button{
+    margin-right:-7px;
+}
+#bw{
+    margin-right: -7px;
+    float: right;
+}
+nav ol{
+    margin:0;
+    padding:20px;
+    list-style:none;
+}
+article{
+    padding-top:1px;
+}
+table, th, td{
+    border: 1px solid black;
+}
